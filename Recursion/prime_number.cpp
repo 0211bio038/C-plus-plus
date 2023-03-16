@@ -1,4 +1,4 @@
-//Check if the number is Prime or Not by recursion.
+//Write a program in C++ to find the given number is Prime or Not using recursion.
 
 #include <iostream>
 using namespace std;
