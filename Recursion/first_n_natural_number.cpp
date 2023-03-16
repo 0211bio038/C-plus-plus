@@ -1,3 +1,5 @@
+//Write a program in C++ to print the first n natural numbers using recursion.
+
 #include <iostream>
 using namespace std;
 
