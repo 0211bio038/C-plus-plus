@@ -1,4 +1,4 @@
-//Code to print Hello World.
+//Write a program in C++ to print Hello World.
 
 #include <iostream>
 using namespace std;
