@@ -1,3 +1,5 @@
+//Sum of n Natural numbers.
+
 #include <iostream>
 using namespace std;
 
