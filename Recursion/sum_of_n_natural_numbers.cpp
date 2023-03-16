@@ -1,4 +1,4 @@
-//Sum of n Natural numbers.
+//Write a program in C++ to print the sum of first n natural numbers using recursion.
 
 #include <iostream>
 using namespace std;
