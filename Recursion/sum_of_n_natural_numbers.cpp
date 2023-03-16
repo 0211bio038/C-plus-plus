@@ -11,7 +11,7 @@ int main()
   cout<<"Enter a number till which you want the sum: ";
   cin>>n;
   cout<<endl;
-  cout<<"The sum of first "<<n<<"Number is: "<<SumofNatural(n)<<endl;
+  cout<<"The sum of first "<<n<<" Number is: "<<SumofNatural(n)<<endl;
   return 0;
 }
 
